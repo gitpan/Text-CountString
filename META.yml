@@ -16,10 +16,8 @@ name: Text-CountString
 provides:
   Text::CountString:
     file: lib/Text/CountString.pm
-    version: 0.01
+    version: 0.02
 requires:
-  Exporter: 0
-  parent: 0
   perl: 5.008001
   strict: 0
   utf8: 0
@@ -28,4 +26,4 @@ resources:
   bugtracker: http://github.com/bayashi/Text-CountString/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/bayashi/Text-CountString
-version: 0.01
+version: 0.02
